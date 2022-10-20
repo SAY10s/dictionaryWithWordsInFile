@@ -1,0 +1,3 @@
+work:praca
+life:życie
+balance:balans
